@@ -13,12 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/amn011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="amn011" height="30" width="40" /></a>
-<a href="https://twitter.com/amn0117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="amn0117" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="aman." height="30" width="40" /></a>
-<a href="https://instagram.com/amn_011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="amn_011" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amn011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="amn011" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amanmuzaffarpur11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="amanmuzaffarpur11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sushant-gaurav" height="30" width="40" /></a>
+<a href="https://fb.com/aman.jha.5205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sushantgaurav57" height="30" width="40" /></a>
+<a href="https://instagram.com/amn_011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_im_sushant" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amn011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sushantgaurav57" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amanmuzaffarpur11/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="imsushant12/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
