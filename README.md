@@ -11,7 +11,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amn011&label=Profile%20views&color=0e75b6&style=flat" alt="amn011" /> </p>
 <p align="center">
- <a href="https://twitter.com/amn0117" target="blank"><img src="https://img.shields.io/twitter/follow/_im_sushant?logo=twitter&color=orange&style=for-the-badge" alt="Twitter" /></a> </p>
+ <a href="https://twitter.com/amn0117" target="blank"><img src="https://img.shields.io/twitter/follow/amn0117?logo=twitter&color=orange&style=for-the-badge" alt="Twitter" /></a> </p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
