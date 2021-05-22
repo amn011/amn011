@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">I am currently a B.Tech (ECE) 2nd year student.</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 <hr>
 
 - 🔭 I’m currently working on **C/C++**
